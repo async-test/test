@@ -1,3 +1,1 @@
 import this
-
-print(this)
